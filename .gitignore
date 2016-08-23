@@ -1,5 +1,17 @@
-node_modules/
+# Mac
+.DS_Store
+
+# Netbeans
+/nbproject/private/
+
+# Node
+npm-debug.log
+/node_modules
+
+# Cordova
 www/build/
 platforms/
 plugins/
-.DS_Store
+
+# res
+resources/signing
